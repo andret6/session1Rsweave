@@ -1,0 +1,29 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Magallanes~Reyes%
+}{%
+Magallanes~Reyes%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+magallanes_reyes_introduction_2017}
+\APACinsertmetastar {%
+magallanes_reyes_introduction_2017}%
+\begin{APACrefauthors}%
+Magallanes~Reyes, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Introduction to {Data} {Science} for {Social} and {Policy}
+  {Research}: {Collecting} and {Organizing} {Data} with {R} and {Python}}
+  {Introduction to {Data} {Science} for {Social} and {Policy} {Research}:
+  {Collecting} and {Organizing} {Data} with {R} and {Python}}\ (\PrintOrdinal{1
+  edition}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

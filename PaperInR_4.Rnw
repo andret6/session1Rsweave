@@ -137,7 +137,7 @@ stargazer(reg1,reg2,covariate.labels=c("Dollars per Student", "Share taking SAT"
 
 Citing requires a \emph{bib} file with all the books. You can create it from Zotero, and then add it here with the command \emph{cite}. For example, open the file named `GovernanceAnalytics' and write the name of the author here.
 
-
+\cite{magallanes_reyes_introduction_2017}
 \bibliographystyle{apacite} 
 \bibliography{GovernanceAnalytics} %you can change this 'bibfile' name.
 
